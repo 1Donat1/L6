@@ -10,7 +10,7 @@ function potatoCounter( liters ){
 
 
     if(!liters){
-       return  console.log('error');
+       return  alert('error');
     }
 
 
